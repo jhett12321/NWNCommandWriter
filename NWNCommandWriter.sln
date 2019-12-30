@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NWNCommandWriter", "NWNCommandWriter\NWNCommandWriter.csproj", "{D5A3AFC4-4548-455E-BC86-6D493D401961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A3AFC4-4548-455E-BC86-6D493D401961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A3AFC4-4548-455E-BC86-6D493D401961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A3AFC4-4548-455E-BC86-6D493D401961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A3AFC4-4548-455E-BC86-6D493D401961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
